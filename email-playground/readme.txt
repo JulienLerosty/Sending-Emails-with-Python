@@ -1,0 +1,2 @@
+Python code to send emails vial Gmail account 
+Don't forget to allow Replit in your gmail account using https://myaccount.google.com/apppasswords and copy/paste the password (unique) to your python code
